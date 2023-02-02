@@ -5,4 +5,9 @@ TAXI-FARE-PREDICTION is Machine Learning Project trained on NYC taxi fare datase
  * XGBoost
  * Support Vector Regressor
  * Random Forest
+
+
+### Dataset
+The Dataset used in this project is from Kaggle Taxi Fare Prediction Competition
+Link: https://www.kaggle.com/competitions/new-york-city-taxi-fare-prediction/data
  
